@@ -29,13 +29,7 @@ Describe your trip in plain English. Get flight options, hotel ideas, and a day-
 - [How the Workflow Works](#how-the-workflow-works)
 - [Limitations](#limitations)
 - [License](#license)
-- [Acknowledgments](#acknowledgments)
-=======
-- [Limitations](#limitations)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
->>>>>>> c2b92f2 (frontend and dockerfile added)
 ## Overview
 
 Planning a trip usually means juggling flight sites, hotel searches, blogs, and spreadsheets. TripMate AI collapses that into one request:
@@ -220,11 +214,3 @@ Plan a 7-day trip to Tokyo with a budget of of 2 lakhs (or $2100)
 ## License
 
 This project is licensed under the Apache License. 
-
-## Acknowledgments
-
-<<<<<<< HEAD
-Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](https://github.com/langchain-ai/langchain), [FastAPI](https://fastapi.tiangolo.com/), [Groq](https://groq.com/), [Tavily](https://tavily.com/), and [AviationStack](https://aviationstack.com/). Intended as a practical example of combining LangGraph agents with real-world APIs.
-=======
-Built with [LangGraph](https://github.com/langchain-ai/langgraph), [LangChain](https://github.com/langchain-ai/langchain), [FastAPI](https://fastapi.tiangolo.com/), [Groq](https://groq.com/), [Tavily](https://tavily.com/), and [AviationStack](https://aviationstack.com/). Intended as a practical example of combining LangGraph agents with real-world APIs.
->>>>>>> c2b92f2 (frontend and dockerfile added)
