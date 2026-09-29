@@ -25,7 +25,6 @@ Describe your trip in plain English. Get flight options, hotel ideas, and a day-
 - [Getting Started](#getting-started)
 - [API Reference](#api-reference)
 - [Example](#example)
-<<<<<<< HEAD
 - [How the Workflow Works](#how-the-workflow-works)
 - [Limitations](#limitations)
 - [License](#license)
