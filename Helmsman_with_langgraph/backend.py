@@ -53,7 +53,7 @@ if not GROQ_API_KEY:
 # =========================
 
 
-GROQ_MODEL = os.getenv("GROQ_MODEL", "llama-3.3-70b-versatile")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-120b")
 
 # Fail fast with a useful message if the model isn't available to this key
 _available = [m.id for m in Groq(api_key=GROQ_API_KEY).models.list().data]
